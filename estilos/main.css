@@ -1,0 +1,14 @@
+*{
+    list-style: none;
+}
+
+
+header{
+    background-color: aqua;
+    padding: 4vw 0;
+}
+
+.foto{
+    border-radius: 50%;
+    margin-left: 3vw;
+}
